@@ -1,0 +1,16 @@
+.App {
+  text-align: center;
+}
+
+.nav{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.nav-link{
+  color: yellowgreen;
+  text-decoration: none;
+}
+/* .nav .active{
+  color: red;
+} */
